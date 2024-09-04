@@ -1,0 +1,1 @@
+This is a folder to store all resources related to the wiki, and remove the possibility that resources are lost when a website goes offline in the future.
